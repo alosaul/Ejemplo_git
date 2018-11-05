@@ -13,6 +13,11 @@ and open the template in the editor.
         <?php
         // put your code here
         echo 'hola mundo';
+        
+        if(5>3){
+            echo 'pedro';
+            
+        }
         ?>
     </body>
 </html>
