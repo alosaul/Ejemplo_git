@@ -16,7 +16,8 @@ and open the template in the editor.
         
         if(5>3){
             echo 'pedro';
-            
+            echo 'saul';
+            echo 'xxx';
         }
         ?>
     </body>
